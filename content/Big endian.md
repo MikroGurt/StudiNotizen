@@ -1,11 +1,9 @@
 ---
-Datum: 2024-10-05
+title: Big Endian
+draft: false
 tags:
   - Rechnerstrukturen
   - Definitonen
-Status: Vollständig
-title: Big Endian
-draft: false
 ---
 
 > [!Attention] 
