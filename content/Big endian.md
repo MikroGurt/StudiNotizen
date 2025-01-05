@@ -1,9 +1,7 @@
 ---
 title: Big Endian
 draft: false
-tags:
-  - Rechnerstrukturen
-  - Definitonen
+tags: []
 ---
 
 > [!Attention] 
