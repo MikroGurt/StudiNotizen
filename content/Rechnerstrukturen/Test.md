@@ -1,6 +1,6 @@
 ---
 title: SuperTest
-draft: true
+draft: false
 tags:
 ---
 TestTest
