@@ -5,4 +5,4 @@ tags:
 ---
 TestTest
 
-![[quartztest.svg]]
+![[quartztest.png]]
